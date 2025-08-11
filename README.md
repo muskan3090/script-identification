@@ -1,0 +1,1 @@
+This is the python implementation for paper  Agarwal, Muskan, S. Indu, and N. Jayanthi. "An Approach to the Classification of Ancient Indian Scripts Using the CNN Model." International Conference on Women Researchers in Electronics and Computing. Singapore: Springer Nature Singapore, 2023.
